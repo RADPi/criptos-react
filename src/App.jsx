@@ -1,6 +1,6 @@
 import styled from '@emotion/styled'
 import { useState, useEffect } from 'react'
-import Formulario from './components/formulario'
+import Formulario from './components/Formulario'
 import Resultado from './components/Resultado'
 import Spinner from './components/Spinner'
 import ImagenCripto from './img/imagen-criptos.png'
